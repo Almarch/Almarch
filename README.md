@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 <img src="https://github.com/user-attachments/assets/7d7afc40-6ecf-41c8-bbea-eee6bed0ca42" alt="Dark mode image"  width="100px" align="right" style="display: none;" onload="if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) this.style.display='block';">
 
 <!--
 **Almarch/Almarch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
