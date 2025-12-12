@@ -1,1 +1,1 @@
-<a href="https://github.com/almarch/pygotchi"><img src="https://github.com/user-attachments/assets/1b50285b-5256-4e47-b9e3-61273975925f" width="100px" align="right"></a>
+<a href="https://github.com/almarch/pygotchi"><img src="https://github.com/user-attachments/assets/d2cd52e2-927b-437f-a57f-24b997d79848" width="100px" align="right"></a>
